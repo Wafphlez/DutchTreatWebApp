@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+L2SjdnsilQvv642hg9aSL2A6LCCuECV6vLJE+i9YTQDvpZsVMI4tPujtoIi5QGEZq/qUQHGg//q81oBnWR0xQ==",
+  "success": true,
+  "projectFilePath": "F:\\Users\\wafph\\source\\repos\\DutchTreatWebApp\\DutchTreatWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wafph\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
