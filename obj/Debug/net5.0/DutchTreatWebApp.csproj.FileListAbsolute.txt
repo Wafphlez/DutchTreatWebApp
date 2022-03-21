@@ -20,3 +20,10 @@ F:\Users\wafph\source\repos\DutchTreatWebApp\obj\Debug\net5.0\DutchTreatWebApp.d
 F:\Users\wafph\source\repos\DutchTreatWebApp\obj\Debug\net5.0\ref\DutchTreatWebApp.dll
 F:\Users\wafph\source\repos\DutchTreatWebApp\obj\Debug\net5.0\DutchTreatWebApp.pdb
 F:\Users\wafph\source\repos\DutchTreatWebApp\obj\Debug\net5.0\DutchTreatWebApp.genruntimeconfig.cache
+F:\Users\wafph\source\repos\DutchTreatWebApp\bin\Debug\net5.0\client\angular.json
+F:\Users\wafph\source\repos\DutchTreatWebApp\bin\Debug\net5.0\client\package-lock.json
+F:\Users\wafph\source\repos\DutchTreatWebApp\bin\Debug\net5.0\client\package.json
+F:\Users\wafph\source\repos\DutchTreatWebApp\bin\Debug\net5.0\client\tsconfig.app.json
+F:\Users\wafph\source\repos\DutchTreatWebApp\bin\Debug\net5.0\client\tsconfig.json
+F:\Users\wafph\source\repos\DutchTreatWebApp\bin\Debug\net5.0\package-lock.json
+F:\Users\wafph\source\repos\DutchTreatWebApp\bin\Debug\net5.0\package.json

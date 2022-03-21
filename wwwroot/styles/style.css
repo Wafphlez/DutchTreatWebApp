@@ -1,0 +1,19 @@
+﻿body {
+    font-family: Consolas;
+}
+
+input {
+    width: 200px;
+}
+
+input[type=submit]{
+    width: auto;
+}
+
+textarea {
+    width: 400px;
+}
+
+.mail{
+    background-color: lightcyan;
+}
