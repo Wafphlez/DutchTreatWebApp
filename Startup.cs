@@ -18,10 +18,8 @@ namespace DutchTreatWebApp
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.Run(async context =>
-            {
-                await context.Response.WriteAsync("Hello World!");
-            });
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
         }
     }
 }
